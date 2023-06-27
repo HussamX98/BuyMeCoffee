@@ -1,0 +1,22 @@
+{
+  "name": "buymeacoffee-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "chai": "^4.3.7",
+    "ethereum-waffle": "^3.4.4",
+    "hardhat": "^2.16.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
